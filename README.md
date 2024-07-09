@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 
 ## Estatisticas
 
-<div style="display: flex; flex-direction: row;">
-<a href="https://github.com/LLReis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLReis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LLReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/LLReis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LLReis&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LLReis&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
